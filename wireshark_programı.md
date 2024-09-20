@@ -1,6 +1,8 @@
-**Wireshark_programı** <br/>
+**Wireshark_network programı** <br/>
+
 ![wireshark_programme](https://github.com/user-attachments/assets/f19e998c-66e0-47f4-99fa-c637c7e07d18)
-wireshark network çözümleyicisi
+
+Wireshark network çözümleyicisi
 
 Dünyanın en popüler ağ protokolü analizörü olan Wireshark programı, ücretsiz ve açık kaynaklı bir paket analizörü olan çapraz platform üzerinden geçen verilerin paketlerini yakalayarak analiz etmeye yarayan bir ağ analiz aracıdır.
 
