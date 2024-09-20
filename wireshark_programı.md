@@ -14,7 +14,7 @@ Wireshark ve TShark gibi onunla birlikte dağıtılan diğer programlar, GNU Gen
 
 Wireshark programı; ağ sorun giderme, analiz, yazılım ve iletişim protokolü geliştirme ve eğitim için kullanılır. 
 
-*Wireshark programının kullanılma amaçları* <br/>
+**Wireshark programının kullanılma amaçları** <br/>
 
 1-Ağ bağlantı sorunlarını tespit etmek için kullanılabilir.<br/>
 2-Şüpheli aktiviteleri veya güvenlik ihlallerini tespit etmek için kullanılır.<br/>
